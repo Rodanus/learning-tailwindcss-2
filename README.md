@@ -1,3 +1,5 @@
+# NOTE: I don't own these files, this is a part of the [Designing with Tailwind CSS](https://tailwindcss.com/screencasts) course. You can find the original repo here: [Designing With Tailwindcss](https://github.com/tailwindcss/designing-with-tailwindcss)
+
 # Designing with Tailwind CSS
 
 This repo contains the source code for each of the videos in the free [Designing with Tailwind CSS](https://tailwindcss.com/screencasts) course.
